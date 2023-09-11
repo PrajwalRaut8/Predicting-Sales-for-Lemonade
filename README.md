@@ -1,8 +1,8 @@
 # Predicting-Sales-for-Lemonade
 This program helps predict how much profit can be made at a lemonade stand each day based on lemon sales and costs, using a special dataset I made
 # Lemonade Stand Sales Predictor with PyTorch
+![download](https://github.com/PrajwalRaut8/Predicting-Sales-for-Lemonade/assets/143160391/79d6aa99-5a64-4e3d-97fd-35c6abd1134c)
 
-![Lemonade Stand](lemonade_stand.jpg)
 
 Welcome to the Lemonade Stand Sales Predictor project! In this hands-on tutorial, you will learn how to build a neural network from scratch using PyTorch, a powerful deep learning library developed by Meta's AI group. Our goal is to train the network to predict the number of lemonades likely to be sold on any given day at a lemonade stand.
 
@@ -41,5 +41,3 @@ Now that our model is trained, you can use it to make predictions with your own 
 This project is just the beginning of your journey into the world of neural networks and predictive modeling. You can explore more advanced concepts such as dataset splitting, real-world datasets, and hyperparameter tuning to enhance your model's accuracy.
 
 Feel free to customize and expand upon this project to make it your own, and happy predicting!
-
-![Lemonade Stand](lemonade_stand.jpg)
